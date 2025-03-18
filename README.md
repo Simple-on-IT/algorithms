@@ -23,10 +23,10 @@
 **[Конкурентность](docs/inDev.md)**  
 **[Генерация данных](docs/inDev.md)**
 
-
 ---
+#### Мои соцсети:  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orlov_development_chanel)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Orlov_Developer)
 
 <p align="center">Не забудь щёлкнуть ⭐, если тебе нравится проект!<p>
-
----
 
