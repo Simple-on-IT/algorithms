@@ -6,21 +6,21 @@
 
 ### Семейства тем:
 #### 1. База:
-**[Структуры данных](docs/dataStructures.md)**
-**[Сортировки](docs/inDev.md)**
-**[Строки](docs/inDev.md)**
+**[Структуры данных](docs/dataStructures.md)**  
+**[Сортировки](docs/inDev.md)**  
+**[Строки](docs/inDev.md)**  
 **[Числа](docs/inDev.md)**
 
 #### 2. Продвинутое:
-**[Деревья](docs/inDev.md)**
-**[Графы](docs/inDev.md)**
-**[Динамика](docs/inDev.md)**
+**[Деревья](docs/inDev.md)**  
+**[Графы](docs/inDev.md)**  
+**[Динамика](docs/inDev.md)**  
 **[Жадные алгоритмы](docs/inDev.md)**
 
 #### 3. Прикладное:
-**[Кеширование](docs/inDev.md)**
-**[Парсинг](docs/inDev.md)**
-**[Конкурентность](docs/inDev.md)**
+**[Кеширование](docs/inDev.md)**  
+**[Парсинг](docs/inDev.md)**  
+**[Конкурентность](docs/inDev.md)**  
 **[Генерация данных](docs/inDev.md)**
 
 
