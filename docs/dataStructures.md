@@ -9,7 +9,7 @@
 #### Основные категории базовых структур данных:
 **[1. Стек (LIFO – Last In, First Out)](dataStructures/stack.md)**
 
-**[2. Очередь (FIFO – First In, First Out)](inDev.md)**
+**[2. Очередь (FIFO – First In, First Out)](dataStructures/queue.md)**
 
 **[3. Связный список](inDev.md)**
 
