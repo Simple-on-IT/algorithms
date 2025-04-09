@@ -11,6 +11,6 @@
 
 **[2. Очередь (FIFO – First In, First Out)](dataStructures/queue.md)**
 
-**[3. Связный список](inDev.md)**
+**[3. Связный список](dataStructures/linkedList.md)**
 
 **[4. Хеш-таблица (HashMap, HashSet)](inDev.md)**
