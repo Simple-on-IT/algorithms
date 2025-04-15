@@ -13,4 +13,4 @@
 
 **[3. Связный список](dataStructures/linkedList.md)**
 
-**[4. Хеш-таблица (HashMap, HashSet)](inDev.md)**
+**[4. Хеш-таблица (HashMap, HashSet)](dataStructures/hashTable.md)**
